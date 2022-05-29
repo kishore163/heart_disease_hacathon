@@ -1,5 +1,4 @@
 # heart_disease_Prediction along with a streamlit app
-LInk to my collab notebook: https://colab.research.google.com/drive/18CZgMgMP0GfVX3aouoDLQDHXxXtrCnjM?usp=sharing
 
 ## About Dataset
 The link to the website containing the dataset is is: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
