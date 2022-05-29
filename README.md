@@ -28,10 +28,10 @@ The data is analysed primarly to understand more about the data. The null values
 
 After primary analysis the data was visulalized using seaborn and matplotlib to understand the correlation between various attributes with each other and also to understand the data in a much better way.
 
-## 3. Scaling and Splitting the data
+## 3.Splitting the data
 
 The data is splitted into train and test to make sure that we can accurately evalute out model.
-Scaling the data between 0 and 1 improves the models performance.
+
 
 ## 4.Model building
 I have used 4 models to see which one gives the best output and built all 4 models. They are
